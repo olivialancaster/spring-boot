@@ -61,7 +61,7 @@
 		<embedded-mongo.version>2.1.1</embedded-mongo.version>
 		<flyway.version>5.2.3</flyway.version>
 		<freemarker.version>2.3.28</freemarker.version>
-		<elasticsearch.version>6.4.3</elasticsearch.version>
+		<elasticsearch.version>6.8.4</elasticsearch.version>
 		<glassfish-el.version>3.0.0</glassfish-el.version>
 		<glassfish-jaxb.version>2.3.1</glassfish-jaxb.version>
 		<groovy.version>2.5.4</groovy.version>
@@ -170,7 +170,7 @@
 		<spring-framework.version>${spring.version}</spring-framework.version>
 		<spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.1.2.BUILD-SNAPSHOT</spring-integration.version>
-		<spring-kafka.version>2.2.3.BUILD-SNAPSHOT</spring-kafka.version>
+		<spring-kafka.version>2.3.0.RELEASE</spring-kafka.version>
 		<spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
 		<spring-plugin.version>1.2.0.RELEASE</spring-plugin.version>
 		<spring-restdocs.version>2.0.2.RELEASE</spring-restdocs.version>
